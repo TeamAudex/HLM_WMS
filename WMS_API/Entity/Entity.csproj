@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FEE90563-E4BF-4F13-B41B-2CBCC3F38817}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entity</RootNamespace>
+    <AssemblyName>Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.0.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.0.5\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Librarys">
+      <HintPath>..\..\..\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\Librarys.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Common\CommonMaster.cs" />
+    <Compile Include="Common\PageID.cs" />
+    <Compile Include="DashBoard\FinancialHealthIndex.cs" />
+    <Compile Include="DashBoard\LiveTrack.cs" />
+    <Compile Include="DashBoard\PODDashboard.cs" />
+    <Compile Include="Masters\BranchMaster.cs" />
+    <Compile Include="Masters\ChangePassword.cs" />
+    <Compile Include="Masters\CityMaster.cs" />
+    <Compile Include="Masters\CityWithlocation.cs" />
+    <Compile Include="Masters\CommonMaster.cs" />
+    <Compile Include="Masters\CommonRef.cs" />
+    <Compile Include="Masters\CountryMaster.cs" />
+    <Compile Include="Masters\Customer.cs" />
+    <Compile Include="Masters\CustomerDet.cs" />
+    <Compile Include="Masters\CustomerDropdown.cs" />
+    <Compile Include="Masters\CustomerGrid.cs" />
+    <Compile Include="Masters\CustomerLatLng.cs" />
+    <Compile Include="Masters\Employee.cs" />
+    <Compile Include="Masters\Floor.cs" />
+    <Compile Include="Masters\ForgotPassword.cs" />
+    <Compile Include="Masters\Itemmaster.cs" />
+    <Compile Include="Masters\Itemmasterdropdown.cs" />
+    <Compile Include="Masters\ItemPackage.cs" />
+    <Compile Include="Masters\ItemPackageDet.cs" />
+    <Compile Include="Masters\ItemPackageDetails.cs" />
+    <Compile Include="Masters\MenuMaster.cs" />
+    <Compile Include="Masters\PickerAttandance.cs" />
+    <Compile Include="Masters\PickerOrderConf.cs" />
+    <Compile Include="Masters\RoleMaster.cs" />
+    <Compile Include="Masters\RoleRights.cs" />
+    <Compile Include="Masters\StateMaster.cs" />
+    <Compile Include="Masters\StoragePalletType.cs" />
+    <Compile Include="Masters\StorageType.cs" />
+    <Compile Include="Masters\StorageTypeID.cs" />
+    <Compile Include="Masters\UpdateExpiryDate.cs" />
+    <Compile Include="Masters\UserStateMap.cs" />
+    <Compile Include="Masters\UserWarehouseMap.cs" />
+    <Compile Include="Masters\VendorCategoryLevelMas.cs" />
+    <Compile Include="Masters\VendorMasterDiv.cs" />
+    <Compile Include="Masters\VendorMasterGrid1.cs" />
+    <Compile Include="Masters\VendorMasterGrid3.cs" />
+    <Compile Include="Masters\VendorMasterList.cs" />
+    <Compile Include="Masters\WarehouseLayout.cs" />
+    <Compile Include="Masters\WarehouseSubZone.cs" />
+    <Compile Include="Masters\WarehouseZone.cs" />
+    <Compile Include="Masters\WHLayoutDetails.cs" />
+    <Compile Include="Operations\CycleCountAdjust.cs" />
+    <Compile Include="Operations\CycleCountAdjustApproval.cs" />
+    <Compile Include="Operations\CycleCountPlan.cs" />
+    <Compile Include="Operations\CycleCountStart.cs" />
+    <Compile Include="Operations\Dispatch.cs" />
+    <Compile Include="Operations\InternalStockTransfer.cs" />
+    <Compile Include="Operations\IST.cs" />
+    <Compile Include="Operations\ISTUpload.cs" />
+    <Compile Include="Operations\PickList.cs" />
+    <Compile Include="Operations\PutAway.cs" />
+    <Compile Include="Operations\StockDispose.cs" />
+    <Compile Include="passwordpolicy\UserMas.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\Common.cs" />
+    <Compile Include="Reports\OrderLifeCycle.cs" />
+    <Compile Include="Reports\PickListPrint.cs" />
+    <Compile Include="Reports\Reports.cs" />
+    <Compile Include="Reports\StockTransferReport.cs" />
+    <Compile Include="searchpage.cs" />
+    <Compile Include="SysnSec\MenuMas.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Auction\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1305 @@
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+F:\Siddharth\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\Siddharth\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\Siddharth\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\Siddharth\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\Siddharth\ROP\ROP.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\Siddharth\ROP\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\Siddharth\ROP\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\New Project\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\New Project\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\New Project\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\New Project\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\New Project\ROP.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\New Project\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\New Project\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\ROP\ROP.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\maha\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\maha\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\maha\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\maha\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\maha\Raymond\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\maha\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\maha\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\MUTHURAJ\Official\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Raymond_MD_FMS\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Raymond_FMS\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Raymond_FMS New\Raymond.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\MUTHURAJ\Official\Wallmart\Wallmart.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\VolvoLine\VolvoLine.API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Sun Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\itextsharp.dll
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+D:\Srini\Sun_Pharma\Sun_Pharma_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Audex Projects\Margadhashak_TLB\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\itextsharp.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Owin.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.pdb
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\arul\Pwc ChangesRal\Margadarshak With Rodation1\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\itextsharp.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Owin.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\TestApplication.pdb
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\EntityFramework.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\EPPlus.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+D:\ArulFenestaRar\MargadarshakTLB_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\itextsharp.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Owin.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.pdb
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\arul\Pwc ChangesRal\Sri _Project\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Owin.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.xml
+E:\RIzwan Dot NEt Projects\Fenesta\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\itextsharp.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta Latest 13_05_2021\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\itextsharp.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Fenesta firstscreenadded\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\itextsharp.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\TestApplication.pdb
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\EntityFramework.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\EPPlus.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+F:\arul\Helthium Folder Create Chag Done\FenestaNew\Box\Fenesta_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\itextsharp.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\TestApplication.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Owin.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\EPPlus.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\TestApplication.pdb
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\EPPlus.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Yusen\Yusen_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Yusen\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+D:\Yusen\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\EPPlus.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\EPPlus.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Rajesh\Yusen\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EPPlus.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EPPlus.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Audex Projects\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Hari\Yusen_Brother\Yusen_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Hari\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hari\POS\POS_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Hari\POS\POS_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Hari\POS\POS_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Audex Projects\POS\POS_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\POS\POS_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+E:\Audex Projects\POS\POS_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\POMS.Repository.dll.config
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\itextsharp.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\TestApplication.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Owin.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\EntityFramework.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\TestApplication.pdb
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\EntityFramework.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GB_API\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GB_API\GB_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\GB_API\GB_API\POMS.Repository\obj\Debug\POMS.Repository.dll
+D:\GB_API\GB_API\POMS.Repository\obj\Debug\POMS.Repository.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\POMS.Repository.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\POMS.Repository.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\itextsharp.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\POMS.Entity.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\TestApplication.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Mvc.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Optimization.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Owin.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\EntityFramework.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Razor.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Cors.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\POMS.Entity.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\TestApplication.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Mvc.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Optimization.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\EntityFramework.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.Razor.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hari\WMS\GB_API\POMS.Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Repository.dll.config
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Repository.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Repository.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Entity.dll
+E:\Hari\WMS\GB_API\POMS.Repository\bin\Debug\Entity.pdb
+E:\Hari\WMS\GB_API\POMS.Repository\obj\Debug\Repository.dll
+E:\Hari\WMS\GB_API\POMS.Repository\obj\Debug\Repository.pdb
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Repository.dll.config
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Repository.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Repository.pdb
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Entity.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\itextsharp.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\TestApplication.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Mvc.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Optimization.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Owin.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\EntityFramework.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Razor.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Cors.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Entity.pdb
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\TestApplication.pdb
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Optimization.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\EntityFramework.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.Razor.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Hari\WMS\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hari\WMS\WMS_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Hari\WMS\WMS_API\Repository\obj\Debug\Repository.dll
+E:\Hari\WMS\WMS_API\Repository\obj\Debug\Repository.pdb
+E:\Audex Projects\WMS_Test\WMS_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Audex Projects\WMS_Test\WMS_API\Repository\obj\Debug\Repository.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\obj\Debug\Repository.pdb
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Repository.dll.config
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Repository.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Repository.pdb
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Entity.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\itextsharp.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\TestApplication.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Mvc.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Optimization.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Owin.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\EntityFramework.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Razor.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Cors.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Entity.pdb
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\TestApplication.pdb
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Optimization.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\EntityFramework.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.Razor.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Audex Projects\WMS_Test\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Repository.dll.config
+F:\AudexProject\WMS_API\Repository\bin\Debug\Repository.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Repository.pdb
+F:\AudexProject\WMS_API\Repository\bin\Debug\Entity.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\itextsharp.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Newtonsoft.Json.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\TestApplication.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Mvc.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Optimization.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Owin.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\EntityFramework.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\EPPlus.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Razor.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Cors.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\AudexProject\WMS_API\Repository\bin\Debug\Entity.pdb
+F:\AudexProject\WMS_API\Repository\bin\Debug\Newtonsoft.Json.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\TestApplication.pdb
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Mvc.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Optimization.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\EntityFramework.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\EPPlus.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.Razor.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\AudexProject\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\AudexProject\WMS_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\AudexProject\WMS_API\Repository\obj\Debug\Repository.dll
+F:\AudexProject\WMS_API\Repository\obj\Debug\Repository.pdb
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Repository.dll.config
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Repository.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Repository.pdb
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Entity.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\itextsharp.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Newtonsoft.Json.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\TestApplication.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Mvc.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Optimization.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Owin.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\EntityFramework.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\EPPlus.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Razor.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Cors.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Entity.pdb
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Newtonsoft.Json.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\TestApplication.pdb
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Mvc.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Optimization.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\EntityFramework.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\EPPlus.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.Razor.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\AudexProject\WMS_NEW\WMS_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\AudexProject\WMS_NEW\WMS_API\Repository\obj\Debug\Repository.dll
+F:\AudexProject\WMS_NEW\WMS_API\Repository\obj\Debug\Repository.pdb
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Repository.dll.config
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Repository.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Repository.pdb
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Entity.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\itextsharp.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Newtonsoft.Json.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\TestApplication.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Mvc.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Optimization.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Owin.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\EntityFramework.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\EPPlus.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Razor.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Cors.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Entity.pdb
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Newtonsoft.Json.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\TestApplication.pdb
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Mvc.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.Owin.Security.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Net.Http.Formatting.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Optimization.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.Cors.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\EntityFramework.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.Owin.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\EPPlus.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Http.WebHost.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.Razor.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\obj\Debug\Repository.dll
+F:\AudexProject\WMS_NEW(BK_201125)\WMS_API\Repository\obj\Debug\Repository.pdb

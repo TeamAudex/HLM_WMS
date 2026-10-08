@@ -1,0 +1,33 @@
+c:\Users\DevUser\documents\visual studio 2015\Projects\POMS.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+c:\Users\DevUser\documents\visual studio 2015\Projects\POMS.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+c:\Users\DevUser\documents\visual studio 2015\Projects\POMS.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+c:\Users\DevUser\documents\visual studio 2015\Projects\POMS.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+E:\Audex project\Raymond POMS\POMS.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+E:\Audex project\Raymond POMS\POMS.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+E:\Audex project\Raymond POMS\POMS.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+E:\Audex project\Raymond POMS\POMS.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+E:\Audex project\Raymond POMS\POMS.API\POMS.Entity\obj\Debug\POMS.Entity.csprojResolveAssemblyReference.cache
+E:\Audex project\S2p\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+E:\Audex project\S2p\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+E:\Audex project\S2p\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.csprojResolveAssemblyReference.cache
+E:\Audex project\S2p\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+E:\Audex project\S2p\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+F:\35\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+F:\35\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+F:\35\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.csprojResolveAssemblyReference.cache
+F:\35\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+F:\35\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+F:\Siddharth\S2P-new\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+F:\Siddharth\S2P-new\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+F:\Siddharth\S2P-new\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+F:\Siddharth\S2P-new\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+F:\Siddharth\S2P-new\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.csprojResolveAssemblyReference.cache
+F:\Siddharth\S2P-new\Production\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+F:\Siddharth\S2P-new\Production\S2P.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+F:\Siddharth\S2P-new\Production\S2P.API\POMS.Entity\obj\Debug\POMS.Entity.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Entity\bin\Debug\POMS.Entity.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Entity\bin\Debug\POMS.Entity.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Entity\obj\Debug\POMS.Entity.csprojResolveAssemblyReference.cache
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Entity\obj\Debug\POMS.Entity.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\POMS.Entity\obj\Debug\POMS.Entity.pdb

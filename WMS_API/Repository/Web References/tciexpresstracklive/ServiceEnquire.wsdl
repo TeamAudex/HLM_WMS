@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.tciexpress.in/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.tciexpress.in/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.tciexpress.in/">
+      <s:element name="createConsignmentEcom">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="consignment" type="tns:ConsignmentEcom" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ConsignmentEcom">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="barcodes" type="tns:ArrayOfBarcodes" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerOrderNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="OrderReferenceNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="BranchCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AWBDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PlantCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PaymentMode" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalAmount" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="PayableAmount" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="Invoices" type="tns:ArrayOfInvoiceDetail" />
+          <s:element minOccurs="0" maxOccurs="1" name="Volumes" type="tns:ArrayOfVolumeDetail" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerFirstName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerLastName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerAddress1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerAddress2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerCity" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerState" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerCountry" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerPinCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerPhoneNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerMobileNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerMaskMobileNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperAddress1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperAddress2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperCity" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperState" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperCountry" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperPinCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperPhoneNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperMobileNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ShipperEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToAddress1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToAddress2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToCity" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToState" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToCountry" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToPinCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToPhoneNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToMobileNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReturnToEmail" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalPices" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ProductWeight" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="VolumetricWeight" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProductCategory" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProductCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProductDescription" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TransportMode" type="tns:TransportMode" />
+          <s:element minOccurs="1" maxOccurs="1" name="B2BFlag" type="tns:flag" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBarcodes">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Barcodes" nillable="true" type="tns:Barcodes" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Barcodes">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="barcode" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInvoiceDetail">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="InvoiceDetail" nillable="true" type="tns:InvoiceDetail" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InvoiceDetail">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceNo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="invoiceValue" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="numberOfBoxes" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="remarks" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfVolumeDetail">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="VolumeDetail" nillable="true" type="tns:VolumeDetail" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="VolumeDetail">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="breadth" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="height" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="length" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="numberOfBoxes" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="volume" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="TransportMode">
+        <s:restriction base="s:string">
+          <s:enumeration value="SURFACE" />
+          <s:enumeration value="AIR" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="flag">
+        <s:restriction base="s:string">
+          <s:enumeration value="N" />
+          <s:enumeration value="Y" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="createConsignmentEcomResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="createConsignmentEcomResult" type="tns:ConsignmentResponseMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ConsignmentResponseMessage">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerOrderNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="error" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errorMessage" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getDomesticTransitTimeForPinCodeAndServiceMode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pFromPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pToPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pServiceMode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPickupDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPickupTime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UserProfile">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getDomesticTransitTimeForPinCodeAndServiceModeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getDomesticTransitTimeForPinCodeAndServiceModeResult" type="tns:TransitTimeResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TransitTimeResponse">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="TransitDays" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DeliverDate" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getDomesticTransitTimeForPinCodeAndServiceModeSec">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pFromPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pToPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pServiceMode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPickupDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPickupTime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getDomesticTransitTimeForPinCodeAndServiceModeSecResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getDomesticTransitTimeForPinCodeAndServiceModeSecResult" type="tns:TransitTimeResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getToken">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getTokenResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getTokenResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="createConsignment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="consignment" type="tns:Consignment" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Consignment">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="barcodes" type="tns:ArrayOfBarcode" />
+          <s:element minOccurs="0" maxOccurs="1" name="clientShipmentCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consigneeAddress" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consignorAddress" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="plantCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="fromPinCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoices" type="tns:ArrayOfInvoice" />
+          <s:element minOccurs="0" maxOccurs="1" name="weight" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="volumeDetails" type="tns:ArrayOfVolume" />
+          <s:element minOccurs="0" maxOccurs="1" name="esugamNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="permitNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="toPinCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consignorEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consignorPhone" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consigneeEmail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consigneePhone" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="edd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="add" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBarcode">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Barcode" nillable="true" type="tns:Barcode" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Barcode">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="barcode" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInvoice">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Invoice" nillable="true" type="tns:Invoice" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Invoice">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceValue" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="numberOfBoxes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="remarks" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EWayBillNo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfVolume">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Volume" nillable="true" type="tns:Volume" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Volume">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="breadth" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="height" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="length" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="numberOfBoxes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="volume" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="createConsignmentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="createConsignmentResult" type="tns:ConsignmentResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ConsignmentResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="cnote" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="error" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errorMessage" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consignmentResponse" type="tns:Consignment" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="editConsignment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cnote" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="consignment" type="tns:Consignment" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="editConsignmentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="editConsignmentResult" type="tns:ConsignmentResponseItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ConsignmentResponseItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="item" type="tns:ArrayOfItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Item" nillable="true" type="tns:Item" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Item">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="cnote" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="error" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errorMessage" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AlterInvoiceEcom">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="actionFlag" type="tns:ActionFlag" />
+            <s:element minOccurs="0" maxOccurs="1" name="weight" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="volumeDetails" type="tns:Volume" />
+            <s:element minOccurs="0" maxOccurs="1" name="invoice" type="tns:Invoice" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="ActionFlag">
+        <s:restriction base="s:string">
+          <s:enumeration value="ADD" />
+          <s:enumeration value="DEL" />
+          <s:enumeration value="UPDATE" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="AlterInvoiceEcomResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AlterInvoiceEcomResult" type="tns:ConsignmentResponseMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlterInvoice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cnote" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="actionFlag" type="tns:ActionFlag" />
+            <s:element minOccurs="0" maxOccurs="1" name="weight" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="volumeDetails" type="tns:Volume" />
+            <s:element minOccurs="0" maxOccurs="1" name="invoice" type="tns:Invoice" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlterInvoiceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AlterInvoiceResult" type="tns:ConsignmentResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cnote" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getConsignmentResult" type="tns:ConsignmentResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentEcom">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentEcomResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getConsignmentEcomResult" type="tns:ConsignmentResponseEcom" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ConsignmentResponseEcom">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="error" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errorMessage" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="consignmentResponse" type="tns:ConsignmentEcom" />
+          <s:element minOccurs="1" maxOccurs="1" name="TAT" type="tns:TAT" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TAT">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="actBookingDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ETD" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ATD" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getConsignmentResponseMessageScan">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pConsignmentNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pUserProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentResponseMessageScanResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getConsignmentResponseMessageScanResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getShippingCostForProductAndServiceMode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pFromPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pToPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pServiceMode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pVolumetricWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductInvoiceAmount" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCodFlag" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pCodAmt" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pFodFlag" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getShippingCostForProductAndServiceModeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getShippingCostForProductAndServiceModeResult" type="tns:ShippingCostResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ShippingCostResponse">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Freight" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FuelCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="DocketCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FOVCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="HandlingCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FODCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="ODACharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="DACCCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="OPSCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="NGT" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalFreight" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="PincodeStatus" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getShippingCostForProductAndServiceModeInclTax">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pFromPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pToPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pServiceMode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pVolumetricWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductInvoiceAmount" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCodFlag" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pCodAmt" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pFodFlag" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getShippingCostForProductAndServiceModeInclTaxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getShippingCostForProductAndServiceModeInclTaxResult" type="tns:ShippingCostResponseInclTax" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ShippingCostResponseInclTax">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Freight" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FuelCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="DocketCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FOVCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="HandlingCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="FODCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="CODCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="ODACharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="DACCCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="OPSCharges" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="NGT" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="SubTotal" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="SGST" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="CGST" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="IGST" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalTax" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalFreight" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="PincodeStatus" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getShippingCostForProductAndServiceModeSplit">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pFromPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pToPinCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pServiceMode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pVolumetricWeight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="pProductInvoiceAmount" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCodFlag" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pCodAmt" type="s:double" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getShippingCostForProductAndServiceModeSplitResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getShippingCostForProductAndServiceModeSplitResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPincodeServiceableStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pPinCodes" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPincodeServiceableStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getPincodeServiceableStatusResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPincodeServiceableStatusStateWise">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pPinCodes" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPincodeServiceableStatusStateWiseResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getPincodeServiceableStatusStateWiseResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentResponseMessage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pConsignmentNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pUserProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConsignmentResponseMessageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getConsignmentResponseMessageResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getVehicleDataForGPS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pVendorCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pUserProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getVehicleDataForGPSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getVehicleDataForGPSResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getResponseMessageAdidas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pConsignmentNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pUserProfile" type="tns:UserProfile" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getResponseMessageAdidasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getResponseMessageAdidasResult" type="tns:ResponseMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ResponseMessage">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ConsignmentNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ActualDeliveryDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="KAMRemarks" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Remarks" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="addEWayBill">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pEWayBill" type="tns:eWayBill" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="eWayBill">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AWBNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="eWayBillDetails" type="tns:ArrayOfInvoiceWithEWayBill" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInvoiceWithEWayBill">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="InvoiceWithEWayBill" nillable="true" type="tns:InvoiceWithEWayBill" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InvoiceWithEWayBill">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="EWBNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EWBExpireDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceNo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="invoiceValue" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="numberOfBoxes" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="remarks" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="addEWayBillResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addEWayBillResult" type="tns:ConsignmentResponseMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cancelConsignment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pConsignmentNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pRTOReason" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cancelConsignmentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cancelConsignmentResult" type="tns:ConsignmentResponseMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="createConsignmentEcomSoapIn">
+    <wsdl:part name="parameters" element="tns:createConsignmentEcom" />
+  </wsdl:message>
+  <wsdl:message name="createConsignmentEcomSoapOut">
+    <wsdl:part name="parameters" element="tns:createConsignmentEcomResponse" />
+  </wsdl:message>
+  <wsdl:message name="getDomesticTransitTimeForPinCodeAndServiceModeSoapIn">
+    <wsdl:part name="parameters" element="tns:getDomesticTransitTimeForPinCodeAndServiceMode" />
+  </wsdl:message>
+  <wsdl:message name="getDomesticTransitTimeForPinCodeAndServiceModeSoapOut">
+    <wsdl:part name="parameters" element="tns:getDomesticTransitTimeForPinCodeAndServiceModeResponse" />
+  </wsdl:message>
+  <wsdl:message name="getDomesticTransitTimeForPinCodeAndServiceModeSecSoapIn">
+    <wsdl:part name="parameters" element="tns:getDomesticTransitTimeForPinCodeAndServiceModeSec" />
+  </wsdl:message>
+  <wsdl:message name="getDomesticTransitTimeForPinCodeAndServiceModeSecSoapOut">
+    <wsdl:part name="parameters" element="tns:getDomesticTransitTimeForPinCodeAndServiceModeSecResponse" />
+  </wsdl:message>
+  <wsdl:message name="getTokenSoapIn">
+    <wsdl:part name="parameters" element="tns:getToken" />
+  </wsdl:message>
+  <wsdl:message name="getTokenSoapOut">
+    <wsdl:part name="parameters" element="tns:getTokenResponse" />
+  </wsdl:message>
+  <wsdl:message name="createConsignmentSoapIn">
+    <wsdl:part name="parameters" element="tns:createConsignment" />
+  </wsdl:message>
+  <wsdl:message name="createConsignmentSoapOut">
+    <wsdl:part name="parameters" element="tns:createConsignmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="editConsignmentSoapIn">
+    <wsdl:part name="parameters" element="tns:editConsignment" />
+  </wsdl:message>
+  <wsdl:message name="editConsignmentSoapOut">
+    <wsdl:part name="parameters" element="tns:editConsignmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlterInvoiceEcomSoapIn">
+    <wsdl:part name="parameters" element="tns:AlterInvoiceEcom" />
+  </wsdl:message>
+  <wsdl:message name="AlterInvoiceEcomSoapOut">
+    <wsdl:part name="parameters" element="tns:AlterInvoiceEcomResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlterInvoiceSoapIn">
+    <wsdl:part name="parameters" element="tns:AlterInvoice" />
+  </wsdl:message>
+  <wsdl:message name="AlterInvoiceSoapOut">
+    <wsdl:part name="parameters" element="tns:AlterInvoiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentSoapIn">
+    <wsdl:part name="parameters" element="tns:getConsignment" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentSoapOut">
+    <wsdl:part name="parameters" element="tns:getConsignmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentEcomSoapIn">
+    <wsdl:part name="parameters" element="tns:getConsignmentEcom" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentEcomSoapOut">
+    <wsdl:part name="parameters" element="tns:getConsignmentEcomResponse" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentResponseMessageScanSoapIn">
+    <wsdl:part name="parameters" element="tns:getConsignmentResponseMessageScan" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentResponseMessageScanSoapOut">
+    <wsdl:part name="parameters" element="tns:getConsignmentResponseMessageScanResponse" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeSoapIn">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceMode" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeSoapOut">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceModeResponse" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeInclTaxSoapIn">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceModeInclTax" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeInclTaxSoapOut">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceModeInclTaxResponse" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeSplitSoapIn">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceModeSplit" />
+  </wsdl:message>
+  <wsdl:message name="getShippingCostForProductAndServiceModeSplitSoapOut">
+    <wsdl:part name="parameters" element="tns:getShippingCostForProductAndServiceModeSplitResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPincodeServiceableStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:getPincodeServiceableStatus" />
+  </wsdl:message>
+  <wsdl:message name="getPincodeServiceableStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:getPincodeServiceableStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPincodeServiceableStatusStateWiseSoapIn">
+    <wsdl:part name="parameters" element="tns:getPincodeServiceableStatusStateWise" />
+  </wsdl:message>
+  <wsdl:message name="getPincodeServiceableStatusStateWiseSoapOut">
+    <wsdl:part name="parameters" element="tns:getPincodeServiceableStatusStateWiseResponse" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentResponseMessageSoapIn">
+    <wsdl:part name="parameters" element="tns:getConsignmentResponseMessage" />
+  </wsdl:message>
+  <wsdl:message name="getConsignmentResponseMessageSoapOut">
+    <wsdl:part name="parameters" element="tns:getConsignmentResponseMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="getVehicleDataForGPSSoapIn">
+    <wsdl:part name="parameters" element="tns:getVehicleDataForGPS" />
+  </wsdl:message>
+  <wsdl:message name="getVehicleDataForGPSSoapOut">
+    <wsdl:part name="parameters" element="tns:getVehicleDataForGPSResponse" />
+  </wsdl:message>
+  <wsdl:message name="getResponseMessageAdidasSoapIn">
+    <wsdl:part name="parameters" element="tns:getResponseMessageAdidas" />
+  </wsdl:message>
+  <wsdl:message name="getResponseMessageAdidasSoapOut">
+    <wsdl:part name="parameters" element="tns:getResponseMessageAdidasResponse" />
+  </wsdl:message>
+  <wsdl:message name="addEWayBillSoapIn">
+    <wsdl:part name="parameters" element="tns:addEWayBill" />
+  </wsdl:message>
+  <wsdl:message name="addEWayBillSoapOut">
+    <wsdl:part name="parameters" element="tns:addEWayBillResponse" />
+  </wsdl:message>
+  <wsdl:message name="cancelConsignmentSoapIn">
+    <wsdl:part name="parameters" element="tns:cancelConsignment" />
+  </wsdl:message>
+  <wsdl:message name="cancelConsignmentSoapOut">
+    <wsdl:part name="parameters" element="tns:cancelConsignmentResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceEnquireSoap">
+    <wsdl:operation name="createConsignmentEcom">
+      <wsdl:input message="tns:createConsignmentEcomSoapIn" />
+      <wsdl:output message="tns:createConsignmentEcomSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceMode">
+      <wsdl:input message="tns:getDomesticTransitTimeForPinCodeAndServiceModeSoapIn" />
+      <wsdl:output message="tns:getDomesticTransitTimeForPinCodeAndServiceModeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceModeSec">
+      <wsdl:input message="tns:getDomesticTransitTimeForPinCodeAndServiceModeSecSoapIn" />
+      <wsdl:output message="tns:getDomesticTransitTimeForPinCodeAndServiceModeSecSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getToken">
+      <wsdl:input message="tns:getTokenSoapIn" />
+      <wsdl:output message="tns:getTokenSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="createConsignment">
+      <wsdl:input message="tns:createConsignmentSoapIn" />
+      <wsdl:output message="tns:createConsignmentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="editConsignment">
+      <wsdl:input message="tns:editConsignmentSoapIn" />
+      <wsdl:output message="tns:editConsignmentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoiceEcom">
+      <wsdl:input message="tns:AlterInvoiceEcomSoapIn" />
+      <wsdl:output message="tns:AlterInvoiceEcomSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoice">
+      <wsdl:input message="tns:AlterInvoiceSoapIn" />
+      <wsdl:output message="tns:AlterInvoiceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsignment">
+      <wsdl:input message="tns:getConsignmentSoapIn" />
+      <wsdl:output message="tns:getConsignmentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentEcom">
+      <wsdl:input message="tns:getConsignmentEcomSoapIn" />
+      <wsdl:output message="tns:getConsignmentEcomSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessageScan">
+      <wsdl:input message="tns:getConsignmentResponseMessageScanSoapIn" />
+      <wsdl:output message="tns:getConsignmentResponseMessageScanSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceMode">
+      <wsdl:input message="tns:getShippingCostForProductAndServiceModeSoapIn" />
+      <wsdl:output message="tns:getShippingCostForProductAndServiceModeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeInclTax">
+      <wsdl:input message="tns:getShippingCostForProductAndServiceModeInclTaxSoapIn" />
+      <wsdl:output message="tns:getShippingCostForProductAndServiceModeInclTaxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeSplit">
+      <wsdl:input message="tns:getShippingCostForProductAndServiceModeSplitSoapIn" />
+      <wsdl:output message="tns:getShippingCostForProductAndServiceModeSplitSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatus">
+      <wsdl:input message="tns:getPincodeServiceableStatusSoapIn" />
+      <wsdl:output message="tns:getPincodeServiceableStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatusStateWise">
+      <wsdl:input message="tns:getPincodeServiceableStatusStateWiseSoapIn" />
+      <wsdl:output message="tns:getPincodeServiceableStatusStateWiseSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessage">
+      <wsdl:input message="tns:getConsignmentResponseMessageSoapIn" />
+      <wsdl:output message="tns:getConsignmentResponseMessageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getVehicleDataForGPS">
+      <wsdl:input message="tns:getVehicleDataForGPSSoapIn" />
+      <wsdl:output message="tns:getVehicleDataForGPSSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getResponseMessageAdidas">
+      <wsdl:input message="tns:getResponseMessageAdidasSoapIn" />
+      <wsdl:output message="tns:getResponseMessageAdidasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addEWayBill">
+      <wsdl:input message="tns:addEWayBillSoapIn" />
+      <wsdl:output message="tns:addEWayBillSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelConsignment">
+      <wsdl:input message="tns:cancelConsignmentSoapIn" />
+      <wsdl:output message="tns:cancelConsignmentSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceEnquireSoap" type="tns:ServiceEnquireSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="createConsignmentEcom">
+      <soap:operation soapAction="http://www.tciexpress.in/createConsignmentEcom" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceMode">
+      <soap:operation soapAction="http://www.tciexpress.in/getDomesticTransitTimeForPinCodeAndServiceMode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceModeSec">
+      <soap:operation soapAction="http://www.tciexpress.in/getDomesticTransitTimeForPinCodeAndServiceModeSec" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getToken">
+      <soap:operation soapAction="http://www.tciexpress.in/getToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createConsignment">
+      <soap:operation soapAction="http://www.tciexpress.in/createConsignment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="editConsignment">
+      <soap:operation soapAction="http://www.tciexpress.in/editConsignment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoiceEcom">
+      <soap:operation soapAction="http://www.tciexpress.in/AlterInvoiceEcom" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoice">
+      <soap:operation soapAction="http://www.tciexpress.in/AlterInvoice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignment">
+      <soap:operation soapAction="http://www.tciexpress.in/getConsignment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentEcom">
+      <soap:operation soapAction="http://www.tciexpress.in/getConsignmentEcom" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessageScan">
+      <soap:operation soapAction="http://www.tciexpress.in/getConsignmentResponseMessageScan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceMode">
+      <soap:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceMode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeInclTax">
+      <soap:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceModeInclTax" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeSplit">
+      <soap:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceModeSplit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatus">
+      <soap:operation soapAction="http://www.tciexpress.in/getPincodeServiceableStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatusStateWise">
+      <soap:operation soapAction="http://www.tciexpress.in/getPincodeServiceableStatusStateWise" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessage">
+      <soap:operation soapAction="http://www.tciexpress.in/getConsignmentResponseMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getVehicleDataForGPS">
+      <soap:operation soapAction="http://www.tciexpress.in/getVehicleDataForGPS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getResponseMessageAdidas">
+      <soap:operation soapAction="http://www.tciexpress.in/getResponseMessageAdidas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addEWayBill">
+      <soap:operation soapAction="http://www.tciexpress.in/addEWayBill" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancelConsignment">
+      <soap:operation soapAction="http://www.tciexpress.in/cancelConsignment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceEnquireSoap12" type="tns:ServiceEnquireSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="createConsignmentEcom">
+      <soap12:operation soapAction="http://www.tciexpress.in/createConsignmentEcom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceMode">
+      <soap12:operation soapAction="http://www.tciexpress.in/getDomesticTransitTimeForPinCodeAndServiceMode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDomesticTransitTimeForPinCodeAndServiceModeSec">
+      <soap12:operation soapAction="http://www.tciexpress.in/getDomesticTransitTimeForPinCodeAndServiceModeSec" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getToken">
+      <soap12:operation soapAction="http://www.tciexpress.in/getToken" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createConsignment">
+      <soap12:operation soapAction="http://www.tciexpress.in/createConsignment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="editConsignment">
+      <soap12:operation soapAction="http://www.tciexpress.in/editConsignment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoiceEcom">
+      <soap12:operation soapAction="http://www.tciexpress.in/AlterInvoiceEcom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlterInvoice">
+      <soap12:operation soapAction="http://www.tciexpress.in/AlterInvoice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignment">
+      <soap12:operation soapAction="http://www.tciexpress.in/getConsignment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentEcom">
+      <soap12:operation soapAction="http://www.tciexpress.in/getConsignmentEcom" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessageScan">
+      <soap12:operation soapAction="http://www.tciexpress.in/getConsignmentResponseMessageScan" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceMode">
+      <soap12:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceMode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeInclTax">
+      <soap12:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceModeInclTax" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShippingCostForProductAndServiceModeSplit">
+      <soap12:operation soapAction="http://www.tciexpress.in/getShippingCostForProductAndServiceModeSplit" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatus">
+      <soap12:operation soapAction="http://www.tciexpress.in/getPincodeServiceableStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPincodeServiceableStatusStateWise">
+      <soap12:operation soapAction="http://www.tciexpress.in/getPincodeServiceableStatusStateWise" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsignmentResponseMessage">
+      <soap12:operation soapAction="http://www.tciexpress.in/getConsignmentResponseMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getVehicleDataForGPS">
+      <soap12:operation soapAction="http://www.tciexpress.in/getVehicleDataForGPS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getResponseMessageAdidas">
+      <soap12:operation soapAction="http://www.tciexpress.in/getResponseMessageAdidas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addEWayBill">
+      <soap12:operation soapAction="http://www.tciexpress.in/addEWayBill" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancelConsignment">
+      <soap12:operation soapAction="http://www.tciexpress.in/cancelConsignment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceEnquire">
+    <wsdl:port name="ServiceEnquireSoap" binding="tns:ServiceEnquireSoap">
+      <soap:address location="https://customerapi.tciexpress.in/ServiceEnquire.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceEnquireSoap12" binding="tns:ServiceEnquireSoap12">
+      <soap12:address location="https://customerapi.tciexpress.in/ServiceEnquire.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,423 @@
+E:\Audex project\S2p\S2P.API\TestApplication\obj\Debug\S2P.API.csprojResolveAssemblyReference.cache
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\csc.exe
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\vbc.exe
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe
+E:\Audex project\S2p\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\Audex project\S2p\S2P.API\TestApplication\bin\TestApplication.dll.config
+E:\Audex project\S2p\S2P.API\TestApplication\bin\TestApplication.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\TestApplication.pdb
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Antlr3.Runtime.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\EntityFramework.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\EntityFramework.SqlServer.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Librarys.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Newtonsoft.Json.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Owin.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\POMS.Entity.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\POMS.Repository.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Net.Http.Formatting.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Cors.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Helpers.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.Cors.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.Owin.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.WebHost.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Mvc.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Optimization.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Razor.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\WebGrease.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\log4net.dll
+E:\Audex project\S2p\S2P.API\TestApplication\bin\POMS.Entity.pdb
+E:\Audex project\S2p\S2P.API\TestApplication\bin\POMS.Repository.pdb
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Net.Http.Formatting.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.Cors.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Newtonsoft.Json.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Helpers.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.WebHost.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Mvc.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Optimization.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Razor.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Antlr3.Runtime.pdb
+E:\Audex project\S2p\S2P.API\TestApplication\bin\EntityFramework.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\EntityFramework.SqlServer.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Audex project\S2p\S2P.API\TestApplication\bin\System.Web.Http.Owin.xml
+E:\Audex project\S2p\S2P.API\TestApplication\obj\Debug\TestApplication.dll
+E:\Audex project\S2p\S2P.API\TestApplication\obj\Debug\TestApplication.pdb
+F:\35\S2P.API\TestApplication\bin\roslyn\csc.exe
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\35\S2P.API\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\35\S2P.API\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\35\S2P.API\TestApplication\bin\roslyn\vbc.exe
+F:\35\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe
+F:\35\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\35\S2P.API\TestApplication\bin\TestApplication.dll.config
+F:\35\S2P.API\TestApplication\bin\TestApplication.dll
+F:\35\S2P.API\TestApplication\bin\TestApplication.pdb
+F:\35\S2P.API\TestApplication\bin\Antlr3.Runtime.dll
+F:\35\S2P.API\TestApplication\bin\EntityFramework.dll
+F:\35\S2P.API\TestApplication\bin\EntityFramework.SqlServer.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+F:\35\S2P.API\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\35\S2P.API\TestApplication\bin\Newtonsoft.Json.dll
+F:\35\S2P.API\TestApplication\bin\Owin.dll
+F:\35\S2P.API\TestApplication\bin\POMS.Entity.dll
+F:\35\S2P.API\TestApplication\bin\POMS.Repository.dll
+F:\35\S2P.API\TestApplication\bin\System.Net.Http.Formatting.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Cors.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Helpers.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.Cors.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.Owin.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.WebHost.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Mvc.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Optimization.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.Razor.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.dll
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.dll
+F:\35\S2P.API\TestApplication\bin\WebGrease.dll
+F:\35\S2P.API\TestApplication\bin\log4net.dll
+F:\35\S2P.API\TestApplication\bin\POMS.Entity.pdb
+F:\35\S2P.API\TestApplication\bin\POMS.Repository.pdb
+F:\35\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\35\S2P.API\TestApplication\bin\System.Net.Http.Formatting.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.Cors.xml
+F:\35\S2P.API\TestApplication\bin\Newtonsoft.Json.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Helpers.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.WebHost.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Mvc.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Optimization.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Razor.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.xml
+F:\35\S2P.API\TestApplication\bin\Antlr3.Runtime.pdb
+F:\35\S2P.API\TestApplication\bin\EntityFramework.xml
+F:\35\S2P.API\TestApplication\bin\EntityFramework.SqlServer.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+F:\35\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\35\S2P.API\TestApplication\bin\System.Web.Http.Owin.xml
+F:\35\S2P.API\TestApplication\obj\Debug\S2P.API.csprojResolveAssemblyReference.cache
+F:\35\S2P.API\TestApplication\obj\Debug\TestApplication.dll
+F:\35\S2P.API\TestApplication\obj\Debug\TestApplication.pdb
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\csc.exe
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\vbc.exe
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\TestApplication.dll.config
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\TestApplication.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\TestApplication.pdb
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Antlr3.Runtime.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\EntityFramework.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\EntityFramework.SqlServer.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Newtonsoft.Json.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Owin.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\POMS.Entity.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\POMS.Repository.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Net.Http.Formatting.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Cors.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Helpers.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.Cors.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.Owin.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.WebHost.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Mvc.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Optimization.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Razor.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\WebGrease.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\POMS.Entity.pdb
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\POMS.Repository.pdb
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Net.Http.Formatting.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.Cors.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Newtonsoft.Json.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Helpers.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.WebHost.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Mvc.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Optimization.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Razor.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Antlr3.Runtime.pdb
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\EntityFramework.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\EntityFramework.SqlServer.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\bin\System.Web.Http.Owin.xml
+F:\Siddharth\S2P-new\S2P.API\TestApplication\obj\Debug\S2P.API.csprojResolveAssemblyReference.cache
+F:\Siddharth\S2P-new\S2P.API\TestApplication\obj\Debug\TestApplication.dll
+F:\Siddharth\S2P-new\S2P.API\TestApplication\obj\Debug\TestApplication.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\obj\Debug\S2P.API.csprojResolveAssemblyReference.cache
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\obj\Debug\TestApplication.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\obj\Debug\TestApplication.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\csc.exe
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\vbc.exe
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\TestApplication.dll.config
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\TestApplication.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\TestApplication.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Antlr3.Runtime.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\EntityFramework.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\EntityFramework.SqlServer.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Newtonsoft.Json.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Owin.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\POMS.Entity.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\POMS.Repository.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Net.Http.Formatting.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Cors.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Helpers.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.Cors.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.Owin.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.WebHost.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Mvc.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Optimization.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Razor.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\WebGrease.dll
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\POMS.Entity.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\POMS.Repository.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Net.Http.Formatting.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.Cors.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Newtonsoft.Json.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Helpers.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.WebHost.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Mvc.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Optimization.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Razor.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.Deployment.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.WebPages.Razor.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Antlr3.Runtime.pdb
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\EntityFramework.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\EntityFramework.SqlServer.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Siddharth\S2P-new\Production\S2P.API\TestApplication\bin\System.Web.Http.Owin.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\csc.exe
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\vbc.exe
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\VBCSCompiler.exe
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\TestApplication.dll.config
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\TestApplication.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\TestApplication.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Antlr3.Runtime.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\EntityFramework.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\EntityFramework.SqlServer.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Newtonsoft.Json.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Owin.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\POMS.Entity.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\POMS.Repository.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Net.Http.Formatting.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Cors.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Helpers.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.Cors.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.Owin.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.WebHost.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Mvc.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Optimization.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Razor.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.Razor.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\WebGrease.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\POMS.Entity.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\POMS.Repository.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Net.Http.Formatting.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.Cors.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Newtonsoft.Json.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Helpers.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.WebHost.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Mvc.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Optimization.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Razor.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.WebPages.Razor.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Antlr3.Runtime.pdb
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\EntityFramework.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\EntityFramework.SqlServer.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\bin\System.Web.Http.Owin.xml
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\obj\Debug\S2P.API.csprojResolveAssemblyReference.cache
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\obj\Debug\TestApplication.dll
+D:\Govindaraj Tasks\ROP PROJECT\ROP.API\TestApplication\obj\Debug\TestApplication.pdb
